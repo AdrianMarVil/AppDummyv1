@@ -1,4 +1,3 @@
-git --versionpackage edu.martinez1Adrian.appdummy
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
